@@ -21,19 +21,20 @@ The Disease Database Application was developed as part of the DBMS course at **S
 
 * **Course**: Database Management Systems (DBMS)
 * **Submitted By**:
-
-  * Rabia Soomro (CMS: 133-22-0025)
-  * Nimerta Wadhwani (CMS: 133-22-0009)
-  * Waqar Abbas (CMS: 133-22-0039)
+  
+  * Nimerta Wadhwani
+  * Rabia Soomro
+  * Waqar Abbas
+ 
 * **Supervisor**: Mrs. Zainab Umair
-* **Submission Date**: May 2025
+
 
 ---
 
 ## 🚀 Objectives
 
 * Design a relational database for medical disease information
-* Create a GUI to display and interact with database content
+* Create a GUI to display and interact with the database content
 * Enable specialty-based browsing and symptom-based searching
 * Display detailed disease descriptions
 * Ensure application robustness and user-friendliness
